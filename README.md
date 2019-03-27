@@ -3,7 +3,7 @@
 
 ## Preview
 
-[![Lotus Template Preview](https://raw.githubusercontent.com/Alirouaki/Lotus-Template/master/images/screenshot.png)](https://raw.githubusercontent.com/Alirouaki/Lotus-Template/master/images/screenshot.png)
+[![Lotus Template Preview](https://raw.githubusercontent.com/bitsnaps/Lotus-Template/master/images/screenshot.png)](https://raw.githubusercontent.com/Alirouaki/Lotus-Template/master/images/screenshot.png)
 
 ## Features
 - Based on Bootstrap 4, FontAwesome and GoogleFont, other libraries are used but not required (lightbox-plus-jquery, animate-css)
